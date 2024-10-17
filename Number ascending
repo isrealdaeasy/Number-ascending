@@ -1,0 +1,4 @@
+numbers = [3,6,1,9,2]
+numbers.append(7)
+numbers.sort
+print(f"The ascending numbers are {numbers}")
